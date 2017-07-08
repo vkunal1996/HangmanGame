@@ -10,7 +10,7 @@ import javax.swing.JButton;
 
 /**
  *
- * @author scarletspeedster
+ * @author scarletspeedster<Kunal Verma>
  */
 class MyException extends Exception
 {
